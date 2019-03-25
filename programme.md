@@ -1,3 +1,5 @@
+SKLEARN ????????
+
 
 Mardi 26 mars 2019 9h30-17h00
 
@@ -13,17 +15,16 @@ Mardi 26 mars 2019 9h30-17h00
 Mercredi 27 mars 9h30-17h00
 
    * **jupyter/jupyterlab** 20min Alex 9h30 - 10h00
-   * **matplotlib_base** 1h Sam  10h00 - 11h00
-   * **scipy_overview.ipynb** 45min Alex 11h00 - 11h45
-   * **file_manipulation** (+os/open) 1h15   Alex 11h45 - 13h00
+   * **matplotlib_base** 1h Sam  10h00 - 10h45
+   * **scipy_overview.ipynb** 45min Alex 10h45 - 11h30
+   * **file_manipulation** (+os/open) 1h00   Alex 11h30 - 12h30
+   * **pandas_base** 55min Sam 12h30 13h00 14h00 - 14h30
    
-   * **pandas_base** 55min Sam    14h00 - 14h55
-   * **pandas_exo** 1h Sam 14h55 - 15h55
-   * **seaborn_base** 20min  Sam 15h55-16h15
-   * **xarray** 25 min Sam 16h15 - 16h40
-   * **overview IDE (spyder, vscode, atom) alex 16h40 - 17h00
-   
-
+   * **pandas_exo** 1h Sam 14h30 - 15h30
+   * **seaborn_base** 20min  Sam 15h30-15h50
+   * **xarray** 25 min Sam 15h50 - 16h15
+   * **sklearn**  25 min. Sam 16h15 - 16h40   
+   * **overview IDE (spyder, vscode, atom, jupyterlab) alex 16h40 - 17h00
   
 Jeudi 28 mars 9h30-17h00
 
